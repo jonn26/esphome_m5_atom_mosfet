@@ -1,0 +1,5 @@
+substitutions:
+  devicename: tv-light
+  upper_devicename: "TV Light"
+
+<<: !include m5_atom_mosfet_common.yaml
